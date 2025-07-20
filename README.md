@@ -1,4 +1,4 @@
-🏁 **Junior Data Analyst Final Project**
+# 🏁 Junior Data Analyst Final Project
 
 📌 **Project Summary**
 
